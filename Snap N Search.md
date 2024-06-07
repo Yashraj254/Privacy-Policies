@@ -1,5 +1,7 @@
 # Privacy Policy
 
+Effective Date: [Insert Date]
+
 Introduction
 At Snap N Search, your privacy is our top priority. This Privacy Policy outlines how we ensure your information is protected when you use our mobile application. Please read this Privacy Policy carefully.
 
@@ -28,5 +30,8 @@ At Snap N Search, your privacy is our top priority. This Privacy Policy outlines
 ## Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+Contact us at: codeformob254@gmail.com for assistance.
+
 
 By using Snap & Search, you agree to the terms of this Privacy Policy. Thank you for using our App.
