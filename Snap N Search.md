@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Effective Date: [Insert Date]
+Effective Date: June 16, 2024
 
 Introduction
 At Snap N Search, your privacy is our top priority. This Privacy Policy outlines how we ensure your information is protected when you use our mobile application. Please read this Privacy Policy carefully.
